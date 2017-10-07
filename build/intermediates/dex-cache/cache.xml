@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/a404c76c144889999b5237541e56e0a22f181b79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_d54b4705d62f802a48a92de3c85902c5049b1e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_96c87cd6bbcf47dd04837306a52acae5daac53cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/4584389706bd01556735d4e04b9d07a36cc7fe7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_2d421b4f4f66a71fc55d7c0e0a64cbfe3f48b790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/8b1df635176c1f6fd134d98674cd5297abfa597b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_ed8c173d1c6f00ea5de75e91aa9161d0800a7389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/8b1df635176c1f6fd134d98674cd5297abfa597b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_ed8c173d1c6f00ea5de75e91aa9161d0800a7389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/c35477d30e197e9a31e8cc9e845ca4723e3f1236/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_32e38f3a74be5f4056cf4ac8a311277b409f54a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/a404c76c144889999b5237541e56e0a22f181b79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_d54b4705d62f802a48a92de3c85902c5049b1e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/4584389706bd01556735d4e04b9d07a36cc7fe7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_2d421b4f4f66a71fc55d7c0e0a64cbfe3f48b790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/ace07f69eb0b9b4c99ae1b62af229519a5ad596d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_0f3c8d0b1641edbc8f6257fdd89f1854032b96b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/0ba0f792c7b593b450e37db31d75b511302a0ac0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_cd56bd2f4e3e49a5e8d5e31e08c5e835ef1b0339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/ace07f69eb0b9b4c99ae1b62af229519a5ad596d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_0f3c8d0b1641edbc8f6257fdd89f1854032b96b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/7c76855892f784883fd561f4002f4ffdaef2f099/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_e4b771921fa3f5673374c637ecd4fd3f3e9b66e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/c35477d30e197e9a31e8cc9e845ca4723e3f1236/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_32e38f3a74be5f4056cf4ac8a311277b409f54a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/1f683bc9f81c589d78eeacb50d0e3768996bf6f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_ea213c35c5882fc40e3439312329bd092f6d518d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/bdfa3074c48b888b56a1ee9fe35d1bc89509fe6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_26ce8963ef58d50198c1673c387ef705eaca9f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/7b633cfc2a4235893723a842b0c3cbd41407878e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_530179e735b7854a54868e0576a564005c8623f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/eeea129091cfc63c2ea58e5217e9892d9dfc4058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_75962c748ba8a86cc83bc164bfc2653a117baa43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/7b633cfc2a4235893723a842b0c3cbd41407878e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_530179e735b7854a54868e0576a564005c8623f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/7c76855892f784883fd561f4002f4ffdaef2f099/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_e4b771921fa3f5673374c637ecd4fd3f3e9b66e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/e82e36682729cdc0330a2af58a0d4dc9b40a465e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_23c87a8de96a7594d77a3348cd3ca0bc4056638d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/eeea129091cfc63c2ea58e5217e9892d9dfc4058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_75962c748ba8a86cc83bc164bfc2653a117baa43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/e85859a9e0a65308652ac770d99df1a8e6cd1a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_ae0908c19338bbbcb8df61e10c10934913dd9551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/14d35df075bd90a7c0c5e94ed98184001c720810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_380cdb1bdcb76ee07c3dd825d8550935170c504f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/41478ec1d8d145ca535978018657b0bdeaa0e750/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_fe77ca49240ad3e36cd2692e961e14d6ed4c3db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/14d35df075bd90a7c0c5e94ed98184001c720810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_380cdb1bdcb76ee07c3dd825d8550935170c504f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/41478ec1d8d145ca535978018657b0bdeaa0e750/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_fe77ca49240ad3e36cd2692e961e14d6ed4c3db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/e85859a9e0a65308652ac770d99df1a8e6cd1a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_ae0908c19338bbbcb8df61e10c10934913dd9551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/823d8965f6625ed8a37af21ba3ab913d1ce80bb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_3ba05845939e79d67d3d0ff3819944370daea674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/823d8965f6625ed8a37af21ba3ab913d1ce80bb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_3ba05845939e79d67d3d0ff3819944370daea674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/ddc1aa82bd7d7e00e31359253d1d6c9c3bbcc763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_db942ba5b3443dabedeb185b18abdc3271285c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/60dbc1e1ad03eb5aefb9ecd952d28f64f091f885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_167d224238e3d358cbc5d32fc5470ce9c755a99e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/a3e3e822de794217c1b0d83fd5d16ee2692a00f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_a30588dbbaa1383190d8a974b16a14e840f2991e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0fd54e855aa2928ee03e15282c848e56b75f9856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/f5703b68959ea97432e27e63ca655ce3d8c656ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_02281ba7607d3966967db9c16099c7e04653a983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/f5703b68959ea97432e27e63ca655ce3d8c656ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_02281ba7607d3966967db9c16099c7e04653a983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_4f54e6dd99b4c6b5f6fd59813184dc093a59e7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/glide-3.7.0_5d0691ef3da0680c56b60cbe899df9babb52523a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/086b43f82ce3a20ee033fa1383565cbfc0c6a052/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/classes_104ebc945a2eab66ada3e789540448d17410ea3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/glide-3.7.0_5d0691ef3da0680c56b60cbe899df9babb52523a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/.android/build-cache/e82e36682729cdc0330a2af58a0d4dc9b40a465e/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_edca40a719e25f766a960541c5a66928902c8584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shahrukh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/shahrukh/AndroidStudioProjects/RentaFurniture/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0fd54e855aa2928ee03e15282c848e56b75f9856.jar" />
+    </item>
+
+</items>
