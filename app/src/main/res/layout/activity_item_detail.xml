@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backhome2"
+    tools:context="com.log2n.rentafurniture.search_results">
+
+
+
+    <TextView
+        android:id="@+id/textView48"
+        android:background="@drawable/layout_border"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload Your Item"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@drawable/layout_border"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/textView48"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <EditText
+            android:id="@+id/editTextName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Item Name"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/button16"
+            android:layout_centerHorizontal="true" />
+
+        <Spinner
+            android:id="@+id/spinnerGenres"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:entries="@array/options2"
+            android:background="@drawable/buttonshape"
+            android:popupBackground="@drawable/buttonshape"
+            android:shadowRadius="5"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:spinnerMode="dropdown"
+            android:layout_marginTop="24dp"
+            android:layout_below="@+id/editTextRent"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/editTextRent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Rent For Item"
+
+            android:layout_below="@+id/editTextName"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="6dp" />
+
+
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="Add Item"
+            android:background="@drawable/buttonshape"
+            android:popupBackground="@drawable/buttonshape"
+            android:shadowRadius="5"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:spinnerMode="dropdown"
+            android:onClick="btnUpload_Click"
+            android:id="@+id/button18"
+            android:layout_marginTop="17dp"
+            android:layout_below="@+id/spinnerGenres"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/capture2"
+            android:background="@drawable/layout_border"
+
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="45dp"
+            android:text="Browse Image"
+            android:background="@drawable/buttonshape"
+            android:popupBackground="@drawable/buttonshape"
+            android:shadowRadius="5"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:id="@+id/button16"
+            android:onClick="btnBrowse_Click"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/imageView8"
+            android:layout_alignLeft="@+id/button18"
+            android:layout_alignStart="@+id/button18" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

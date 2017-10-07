@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Rent a Furniture</string>
+    <string name="register"><u><b><i>Rent A Furniture</i></b></u></string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="signup_btn_text">Sign Up</string>
+    <string name="enter_email">Enter Your Email Address</string>
+    <string name="singin_link_text">Already have an account? Sign in!!</string>
+    <string name="singup_link_text">Don\'t have an account!! Sign Up</string>
+    <string name="Password_confirmation">Confirm Password</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="log_in_button">Log IN</string>
+    <string name="Search_Box">Search</string>
+    <string name="rent_a_furniture_2017">\@Rent A Furniture,2017</string>
+    <array name="options">
+        <item name="select">Select an Item ---</item>
+        <item name="chair">Chair</item>
+        <item name="table">Table</item>
+        <item name="dining">Dining Table</item>
+        <item name="sofa">Sofa Set</item>
+        <item name="bed">Bed</item>
+        <item name="others">Others</item>
+
+    </array>
+    <array name="options2">
+        <item name="select">Select an Area ---</item>
+        <item name="Mirpur">Mirpur</item>
+        <item name="Uttara">Uttara</item>
+        <item name="Dhanmondi">Dhanmondi</item>
+        <item name="OldTown">Old Town</item>
+        <item name="Gulshan">Gulshan</item>
+        <item name="Baridhara">Baridhara</item>
+
+    </array>
+    <array name="options3">
+        <item name="select">Select rent range ---</item>
+        <item name="Low">100 to 500</item>
+        <item name="mid">500 to 1000</item>
+        <item name="More">1000 and above</item>
+    </array>
+
+    <array name="options4">
+        <item name="select">1</item>
+        <item name="Low">2</item>
+        <item name="mid">3</item>
+        <item name="More">above 3</item>
+    </array>
+
+    <array name="options5">
+        <item name="select">Select --</item>
+        <item name="Bk">Bkash</item>
+        <item name="pay">Paypal</item>
+        <item name="Visa">Visa Card</item>
+    </array>
+
+    <array name="options6">
+        <item name="select">Browse Furnitures You Like --</item>
+        <item name="Bk">Table</item>
+        <item name="pay">Chair</item>
+        <item name="Visa">Dining Table Set</item>
+        <item name="Low">Wardrobe</item>
+        <item name="mid">Sofa Set</item>
+        <item name="More">Bed</item>
+    </array>
+
+    <array name="genres">
+        <item name="select">Select --</item>
+        <item name="Bk">Bkash</item>
+        <item name="pay">Paypal</item>
+        <item name="Visa">Visa Card</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

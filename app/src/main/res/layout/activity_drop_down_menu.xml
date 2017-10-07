@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backhome2"
+    tools:context="com.log2n.rentafurniture.DropDownMenu"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+
+        android:background="@drawable/layout_border"
+        android:id="@+id/relativeLayout13"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="37dp">
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:text="Manage Uploads"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/button17"
+            android:layout_alignLeft="@+id/button17"
+            android:layout_alignStart="@+id/button17" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView26"
+            android:layout_alignBottom="@+id/textView26"
+            android:layout_marginLeft="72dp"
+            android:layout_marginStart="72dp"
+            android:layout_toEndOf="@+id/textView26"
+            android:layout_toRightOf="@+id/textView26"
+            android:text="Log Out"
+
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload Item"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginTop="18dp"
+            android:layout_below="@+id/button11"
+            android:layout_alignLeft="@+id/button11"
+            android:layout_alignStart="@+id/button11" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:background="@drawable/home"
+            android:layout_above="@+id/textView28"
+            android:layout_alignLeft="@+id/button8"
+            android:layout_alignStart="@+id/button8" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/manage_profile"
+            android:layout_below="@+id/textView26"
+            android:layout_alignLeft="@+id/textView28"
+            android:layout_alignStart="@+id/textView28" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/button11"
+            android:layout_marginEnd="75dp"
+            android:layout_marginRight="75dp"
+            android:background="@drawable/log_out" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="42dp"
+            android:background="@drawable/upload"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/button12"
+            android:layout_alignStart="@+id/button12" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="38dp"
+            android:layout_marginRight="38dp"
+            android:layout_marginTop="19dp"
+            android:text="Manage Profile"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/button12"
+            android:layout_toLeftOf="@+id/button13"
+            android:layout_toStartOf="@+id/button13" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back to Home"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_alignBaseline="@+id/textView28"
+            android:layout_alignBottom="@+id/textView28"
+            android:layout_toRightOf="@+id/textView28"
+            android:layout_toEndOf="@+id/textView28" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="32dp"
+            android:text="Uploads"
+            android:background="@drawable/buttonshape2"
+            android:layout_below="@+id/textView28"
+            android:layout_alignLeft="@+id/textView28"
+            android:layout_alignStart="@+id/textView28" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/layout_border">
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Main Menu"
+            android:textSize="38sp"
+            android:textStyle="bold|italic"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/layout_border"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

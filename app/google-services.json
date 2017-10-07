@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597778748115",
+    "firebase_url": "https://rentafurniture-95714.firebaseio.com",
+    "project_id": "rentafurniture-95714",
+    "storage_bucket": "rentafurniture-95714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597778748115:android:2223888f13ca69ae",
+        "android_client_info": {
+          "package_name": "com.log2n.rentafurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597778748115-cp6h99j0tri3sh4u647ogmt65rubub87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.log2n.rentafurniture",
+            "certificate_hash": "a1b84b63dfb8a7ceff2e79f51a782a2be293d46a"
+          }
+        },
+        {
+          "client_id": "597778748115-bqnu414neuoim9kiajebs95fnofb5lt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLuKogJ2vMImGdcYRvZBfOZPJIfu-IPD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597778748115-bqnu414neuoim9kiajebs95fnofb5lt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
